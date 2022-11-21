@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.navigation, li, ol {
+color: cornflowerblue;
+font-size: 16px;
+line-height: 20px;
+
+}
+.navigation__fram {
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.title{
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+.paragraph {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+.subtitle {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+.img {
+    border-radius: 10px;
+}
